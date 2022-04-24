@@ -1,0 +1,22 @@
+.clock__wrapper {
+  position: absolute;
+  top: 0;
+  right: 0;
+  margin-top: 25px;
+  cursor: pointer;
+}
+.navbar__clock {
+  padding-right: 1.3rem;
+  text-align: right;
+
+  overflow-x: hidden;
+}
+svg {
+  width: 27px;
+  height: 27px;
+}
+.clock {
+  padding-top: 2px;
+  font-family: "Black Ops One", cursive;
+  font-size: 1.2rem;
+}

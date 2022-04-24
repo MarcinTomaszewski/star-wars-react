@@ -1,0 +1,14 @@
+.app__wrapper {
+  font-family: Avenir, Helvetica, Arial, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  text-align: center;
+  /* color: $main-color-dark; */
+  color: black;
+  position: relative;
+  /* height: 130vh; */
+}
+.page__wrapper {
+  min-height: calc(100vh - 140px);
+  margin-top: 80px;
+}
